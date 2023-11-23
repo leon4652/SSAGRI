@@ -4,7 +4,7 @@
 - 2023.08.28 ~ 2023.10.06 (40일)
 
 ![Imgur](https://i.imgur.com/B9kthsD.png)
-![Imgur](https://i.imgur.com/VhzQTy3.jpg)
+<img src="https://i.imgur.com/VhzQTy3.jpg" width="500" />
 
 # 📌목차
 - [소개](#-소개)
