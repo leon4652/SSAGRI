@@ -43,7 +43,7 @@ SSAFY 교육생들을 위한 IT 물품 중고거래 서비스를 기획하였습
 ## 3. 경매
 <img src="/exec/scenario/project-scenario/auctionMain.gif" width="800"/>
 <img src="/exec/scenario/project-scenario/auctionBidding.gif" width="800"/>
-<img src="/exec/scenario/project-scenario/auctionBiddingAlarm.gif" width="800"/>
+<img src="/exec/scenario/project-scenario/auctionAlarm.png" width="800"/>
    
 - 모니터, 키보드, 마우스 등 카테고리별로 물품들을 볼 수 있습니다.
 - 상품 클릭을 하면 상품의 상세정보, 시작가, 정가, 현재 최고가를 볼 수 있습니다.
