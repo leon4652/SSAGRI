@@ -31,6 +31,7 @@ SSAFY 교육생들을 위한 IT 물품 중고거래 서비스를 기획하였습
 <img src="/exec/scenario/project-scenario/mainScroll.gif" width="800"/>
    
 - 첫 접속 시, 화면을 통해 SSAGRI의 간단한 서비스들을 확인할 수 있습니다.
+- Matter.Js를 제외한 다른 라이브러리 사용없이 순수 자바스크립트로만 페이지를 구성했습니다. 
 
 ## 2. 중고 거래
 <img src="/exec/scenario/project-scenario/tradeMain.png" width="800"/>
