@@ -58,7 +58,7 @@ SSAFY 교육생들을 위한 IT 물품 중고거래 서비스를 기획하였습
 
 # 🛠 사용기술
 
-![Imgur](https://i.imgur.com/H328xbg.png)
+<img src="https://i.imgur.com/H328xbg.png" width="800" />
 
 ### Backend
 
