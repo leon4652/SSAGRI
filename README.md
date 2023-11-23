@@ -27,29 +27,31 @@ SSAFY 교육생들을 위한 IT 물품 중고거래 서비스를 기획하였습
 
 # 💻 주요기능
 
-### 1. 메인화면
-<img src="https://github.com/handaldog/SSAGRI/assets/96431408/abff6fd2-7e66-4ca9-8682-43bddc7ea419" width="800"/>
+## 1. 메인화면
+<img src="/exec/scenario/project-scenario/mainScroll.gif" width="800"/>
    
 - 첫 접속 시, 화면을 통해 SSAGRI의 간단한 서비스들을 확인할 수 있습니다.
 
-### 2. 중고 거래
-<img src="https://github.com/handaldog/SSAGRI/assets/96431408/f47ce260-408b-4fd9-9bf0-ab126b1cbc4c" width="800"/>
-<img src="https://github.com/handaldog/SSAGRI/assets/96431408/85c716ac-57b6-490e-a03d-3920b6b63410" width="800"/>
+## 2. 중고 거래
+<img src="/exec/scenario/project-scenario/tradeMain.png" width="800"/>
+<img src="/exec/scenario/project-scenario/tradeDetail.gif" width="800"/>
+<img src="/exec/scenario/project-scenario/tradeChatting.gif" width="800"/>
    
 - SSAFY가 위치한 서울, 대전, 구미, 광주, 부울경 지역별로 중고물품을 확인합니다.
 - 구매하고 싶은 물건을 확인하고, 판매자와의 채팅을 통해 거래를 진행합니다.
 
-### 3. 경매
-<img src="https://github.com/handaldog/SSAGRI/assets/96431408/f32df646-388c-404a-9612-0b356234d54f" width="800"/>
+## 3. 경매
+<img src="/exec/scenario/project-scenario/auctionMain.gif" width="800"/>
+<img src="/exec/scenario/project-scenario/auctionBidding.gif" width="800"/>
+<img src="/exec/scenario/project-scenario/auctionBiddingAlarm.gif" width="800"/>
    
 - 모니터, 키보드, 마우스 등 카테고리별로 물품들을 볼 수 있습니다.
 - 상품 클릭을 하면 상품의 상세정보, 시작가, 정가, 현재 최고가를 볼 수 있습니다.
 - 입찰을 누르면 입찰 리스트에 기록됩니다.
 - 입찰 시간이 마감되고 최고가로 입찰 한 사람과 채팅으로 이어지는 버튼이 생성됩니다.
 
-### 4. 생명주기 커뮤니티 서비스
-<img src="https://github.com/handaldog/SSAGRI/assets/96431408/55441a14-1cf7-48e9-858c-217f825f016d" width="800"/>
-<img src="https://github.com/handaldog/SSAGRI/assets/96431408/e5f03e3a-2e7e-4aa1-bfc3-10814ba29db0" width="800"/>
+## 4. 생명주기 커뮤니티 서비스
+<img src="/exec/scenario/project-scenario/community.gif" width="800"/>
    
 - 각각의 커뮤니티에는 기본적으로 7일의 생명주기가 주어집니다.
 - 인기가 가장 많은 게시판의 원 모양이 가장 큽니다.
