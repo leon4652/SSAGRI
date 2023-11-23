@@ -7,6 +7,8 @@
 
 <img src="https://i.imgur.com/VhzQTy3.jpg" width="500" />
 
+### 🎬 [UCC](https://youtu.be/4Hb1UZvzxzc)
+
 # 📌목차
 - [소개](#-소개)
 - [주요기능](#-주요기능)
@@ -31,7 +33,8 @@ SSAFY 교육생들을 위한 IT 물품 중고거래 서비스를 기획하였습
 - 첫 접속 시, 화면을 통해 SSAGRI의 간단한 서비스들을 확인할 수 있습니다.
 
 ### 2. 중고 거래
-![ezgif com-crop (15)](https://github.com/handaldog/SSAGRI/assets/96431408/f47ce260-408b-4fd9-9bf0-ab126b1cbc4c)![ezgif com-crop (16)](https://github.com/handaldog/SSAGRI/assets/96431408/85c716ac-57b6-490e-a03d-3920b6b63410)
+![ezgif com-crop (15)](https://github.com/handaldog/SSAGRI/assets/96431408/f47ce260-408b-4fd9-9bf0-ab126b1cbc4c)   
+![ezgif com-crop (16)](https://github.com/handaldog/SSAGRI/assets/96431408/85c716ac-57b6-490e-a03d-3920b6b63410)
 - SSAFY가 위치한 서울, 대전, 구미, 광주, 부울경 지역별로 중고물품을 확인합니다.
 - 구매하고 싶은 물건을 확인하고, 판매자와의 채팅을 통해 거래를 진행합니다.
 
@@ -43,7 +46,8 @@ SSAFY 교육생들을 위한 IT 물품 중고거래 서비스를 기획하였습
 - 입찰 시간이 마감되고 최고가로 입찰 한 사람과 채팅으로 이어지는 버튼이 생성됩니다.
 
 ### 4. 생명주기 커뮤니티 서비스
-![ezgif com-crop (18)](https://github.com/handaldog/SSAGRI/assets/96431408/55441a14-1cf7-48e9-858c-217f825f016d)![ezgif com-crop (19)](https://github.com/handaldog/SSAGRI/assets/96431408/e5f03e3a-2e7e-4aa1-bfc3-10814ba29db0)
+![ezgif com-crop (18)](https://github.com/handaldog/SSAGRI/assets/96431408/55441a14-1cf7-48e9-858c-217f825f016d)   
+![ezgif com-crop (19)](https://github.com/handaldog/SSAGRI/assets/96431408/e5f03e3a-2e7e-4aa1-bfc3-10814ba29db0)
 - 각각의 커뮤니티에는 기본적으로 7일의 생명주기가 주어집니다.
 - 인기가 가장 많은 게시판의 원 모양이 가장 큽니다.
 - 클릭 수, 게시글 수, 댓글 수에 따라 게시판 생명주기가 늘어납니다.
