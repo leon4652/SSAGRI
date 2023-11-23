@@ -3,7 +3,8 @@
 - SSAFY 9기 2학기 특화프로젝트
 - 2023.08.28 ~ 2023.10.06 (40일)
 
-![Imgur](https://i.imgur.com/B9kthsD.png)
+![Imgur](https://i.imgur.com/B9kthsD.png)   
+
 <img src="https://i.imgur.com/VhzQTy3.jpg" width="500" />
 
 # 📌목차
