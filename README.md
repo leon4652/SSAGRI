@@ -202,4 +202,4 @@ SSAFY 교육생들을 위한 IT 물품 중고거래 서비스를 기획하였습
 | ----------------- | -------- | -------- | ------- | ------- | ------- |
 | <img src="https://github.com/handaldog/SSAGRI/assets/96431408/e4e4d12e-0d1f-4bf2-9f0c-acc612d7f84a" width="130" height="180">|<img src="https://github.com/Joungwon/Joungwon/assets/122511462/f6f52f64-3993-4c3c-a971-659e32e50804" width="130" height="180">|<img src="https://i.imgur.com/OOQVpo4.jpg" width="130" height="180">|<img src="https://github.com/handaldog/SSAGRI/assets/96431408/6128ba53-9dfc-46a9-9e0a-79007eeee363" width="130" height="180">|<img src="https://github.com/handaldog/C-YES/assets/96431408/efaaad7e-09b2-48d6-a790-88af70e42965" width="130" height="180">|<img src="https://github.com/whddls12/whddls12.github.io/assets/122436491/7b597c00-a1d6-4472-9965-e43d64d17839" width="130" height="180">|
 | Leader & Backend | Frontend | Fullstack | Backend | Infra &Backend | Frontend |
-| 본인업무 | 메인페이지 로직, <br/>커뮤니티 설계 | 본인업무 | 본인업무 | 본인업무 | 로그인, 회원가입, <br/>경매 화면 제작|
+| 본인업무 | 메인페이지 로직, <br/>커뮤니티 설계 | 본인업무 | 채팅기능, 알림기능, REST API | 본인업무 | 로그인, 회원가입, <br/>경매 화면 제작|
