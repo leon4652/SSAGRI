@@ -34,22 +34,36 @@ SSAFY 교육생들을 위한 IT 물품 중고거래 서비스를 기획하였습
 - Matter.Js를 제외한 다른 라이브러리 사용없이 순수 자바스크립트로만 페이지를 구성했습니다. 
 
 ## 2. 중고 거래
-<img src="/exec/scenario/project-scenario/tradeMain.png" width="800"/>
-<img src="/exec/scenario/project-scenario/tradeDetail.gif" width="800"/>
-<img src="/exec/scenario/project-scenario/tradeChatting.gif" width="800"/>
-   
-- SSAFY가 위치한 서울, 대전, 구미, 광주, 부울경 지역별로 중고물품을 확인합니다.
-- 구매하고 싶은 물건을 확인하고, 판매자와의 채팅을 통해 거래를 진행합니다.
+<img src="/exec/scenario/project-scenario/tradeMain.png" width="800"/>   
 
-## 3. 경매
-<img src="/exec/scenario/project-scenario/auctionMain.gif" width="800"/>
-<img src="/exec/scenario/project-scenario/auctionBidding.gif" width="800"/>
-<img src="/exec/scenario/project-scenario/auctionAlarm.png" width="800"/>
+- 삼성 SW 아카데미가 위치한 서울, 대전, 구미, 광주, 부울경 5개 지역 별로 중고물품을 확인합니다.
+- 방금 등록된 물품과 실시간 인기 물품을 확인할 수 있습니다.
+
+<img src="/exec/scenario/project-scenario/tradeDetail.gif" width="800"/>   
+
+- 하나의 물품을 상세조회했을 때 사진, 판매자, 상세 설명을 볼 수 있습니다.
+- "찜하기" 버튼을 통해 찜할 수 있습니다.
+- "구매 채팅하기" 버튼을 통해 판매자와 대화를 시작할 수 있습니다.
+
+<img src="/exec/scenario/project-scenario/tradeChatting.gif" width="800"/>   
+
+- 사용자 본인의 채팅 목록을 확인할 수 있으며, 채팅방마다 대화를 이어갈 수 있습니다.
    
+## 3. 경매
+<img src="/exec/scenario/project-scenario/auctionMain.gif" width="800"/>   
+
 - 모니터, 키보드, 마우스 등 카테고리별로 물품들을 볼 수 있습니다.
-- 상품 클릭을 하면 상품의 상세정보, 시작가, 정가, 현재 최고가를 볼 수 있습니다.
+
+<img src="/exec/scenario/project-scenario/auctionBidding.gif" width="800"/>   
+
+- 상품을 클릭하면 상품의 상세정보, 시작가, 정가, 현재 최고가를 볼 수 있습니다.
 - 입찰을 누르면 입찰 리스트에 기록됩니다.
 - 입찰 시간이 마감되고 최고가로 입찰 한 사람과 채팅으로 이어지는 버튼이 생성됩니다.
+
+<img src="/exec/scenario/project-scenario/auctionAlarm.png" width="800"/>   
+
+- 내가 입찰한 금액보다 높은 금액으로 입찰이 진행될 경우, 상회입찰 알림이 보여집니다.
+
 
 ## 4. 생명주기 커뮤니티 서비스
 <img src="/exec/scenario/project-scenario/community.gif" width="800"/>
@@ -205,4 +219,4 @@ SSAFY 교육생들을 위한 IT 물품 중고거래 서비스를 기획하였습
 | ----------------- | -------- | -------- | ------- | ------- | ------- |
 | <img src="https://github.com/handaldog/SSAGRI/assets/96431408/e4e4d12e-0d1f-4bf2-9f0c-acc612d7f84a" width="130" height="180">|<img src="https://github.com/Joungwon/Joungwon/assets/122511462/f6f52f64-3993-4c3c-a971-659e32e50804" width="130" height="180">|<img src="https://i.imgur.com/OOQVpo4.jpg" width="130" height="180">|<img src="https://github.com/handaldog/SSAGRI/assets/96431408/6128ba53-9dfc-46a9-9e0a-79007eeee363" width="130" height="180">|<img src="https://github.com/handaldog/C-YES/assets/96431408/efaaad7e-09b2-48d6-a790-88af70e42965" width="130" height="180">|<img src="https://github.com/whddls12/whddls12.github.io/assets/122436491/7b597c00-a1d6-4472-9965-e43d64d17839" width="130" height="180">|
 | Leader & Backend | Frontend | Fullstack | Backend | Infra &Backend | Frontend |
-| 본인업무 | 메인페이지 로직, <br/>커뮤니티 설계 | 본인업무 | 채팅기능, 알림기능 <br/>REST API, DB 설계 | 본인업무 | 로그인, 회원가입, <br/>경매 화면 제작|
+| 본인업무 | 메인페이지 로직, <br/>커뮤니티 설계 | 중고거래/채팅 페이지<br/> 디자인 및 개발,<br/> 채팅 로직 개발 | 채팅기능, 알림기능 <br/>REST API, DB 설계 | 본인업무 | 로그인, 회원가입, <br/>경매 화면 제작|
