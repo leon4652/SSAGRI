@@ -220,7 +220,7 @@ SSAFY 교육생들을 위한 IT 물품 중고거래 서비스를 기획하였습
 | <img src="https://github.com/handaldog/SSAGRI/assets/96431408/e4e4d12e-0d1f-4bf2-9f0c-acc612d7f84a" width="130" height="180">|<img src="https://github.com/Joungwon/Joungwon/assets/122511462/f6f52f64-3993-4c3c-a971-659e32e50804" width="130" height="180">|<img src="https://i.imgur.com/OOQVpo4.jpg" width="130" height="180">|<img src="https://github.com/handaldog/SSAGRI/assets/96431408/6128ba53-9dfc-46a9-9e0a-79007eeee363" width="130" height="180">|<img src="https://github.com/handaldog/C-YES/assets/96431408/efaaad7e-09b2-48d6-a790-88af70e42965" width="130" height="180">|<img src="https://github.com/whddls12/whddls12.github.io/assets/122436491/7b597c00-a1d6-4472-9965-e43d64d17839" width="130" height="180">|
 | Leader & Backend | Frontend | Fullstack | Backend | Infra &Backend | Frontend |
 
-- 신창학: 회원가입, 로그인, 보안
+- 신창학: 유저 정보 관리, 회원가입 및 소셜 로그인, 보안 및 인가 처리
 - 석정원: 메인페이지 로직, 커뮤니티 설계
 - 송병훈: 중고거래/채팅 화면 디자인 및 개발, 채팅 로직 개발
 - 유태영: 채팅기능, 알림기능 REST API, DB 설계
