@@ -54,6 +54,14 @@ public class UserLoginAndLogoutService {
         //3. Redis에 Refresh 토큰 저장
         saveRefreshToken(userNo, refreshToken);
 
+        //4. CSRF 보안 설정을 위한 SameSite 속성 추가
+        String cookieValue = "refreshToken=" + refreshToken +
+                             "; HttpOnly" +
+                             "; Max-Age=" + refreshTokenCookie.getMaxAge() +
+                             "; Path=" + refreshTokenCookie.getPath() +
+                             "; SameSite=Lax"; // 여기서 SameSite 값을 지정합니다.
+        response.addHeader("Set-Cookie", cookieValue);
+        
         //4. 헤더에 토큰 추가하여 메시지 발급
         return addJwtTokenAtHeader(responseResult, accessToken);
     }
